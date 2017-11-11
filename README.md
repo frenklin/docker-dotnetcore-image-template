@@ -1,6 +1,8 @@
 # docker-dotnetcore-image-template
 
-[![frenklin/docker-dotnetcore-image-template](http://dockeri.co/image/frenklin/docker-dotnetcore-image-template)](https://registry.hub.docker.com/u/frenklin/docker-dotnetcore-image-template/)
+[![Docker Build Status](https://img.shields.io/docker/build/frenklin/dotnetcore-image-template.svg?style=for-the-badge)]()
+
+frenklin/docker-dotnetcore-image-template
 
 - Replace docker image name "dotnetcore-app" in Makefile
 - Clear src folder
