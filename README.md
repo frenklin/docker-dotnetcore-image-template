@@ -1,8 +1,10 @@
 # docker-dotnetcore-image-template
 
-[![Docker Build Status](https://img.shields.io/docker/build/frenklin/dotnetcore-image-template.svg?style=for-the-badge)]()
+[![Docker Stars](https://img.shields.io/docker/stars/frenklin/dotnetcore-image-template.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/frenklin/dotnetcore-image-template.svg)]()
+[![Docker Build Status](https://img.shields.io/docker/build/frenklin/dotnetcore-image-template.svg)]()
+[![Docker Automated Build](https://img.shields.io/docker/automated/frenklin/dotnetcore-image-template.svg)]()
 
-frenklin/docker-dotnetcore-image-template
 
 - Replace docker image name "dotnetcore-app" in Makefile
 - Clear src folder
