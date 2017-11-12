@@ -1,5 +1,6 @@
 # docker-dotnetcore-image-template
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.txt)
 [![Docker Stars](https://img.shields.io/docker/stars/frenklin/docker-dotnetcore-image-template.svg)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/frenklin/docker-dotnetcore-image-template.svg)]()
 [![Docker Build Status](https://img.shields.io/docker/build/frenklin/docker-dotnetcore-image-template.svg)]()
@@ -18,7 +19,7 @@ make build-image
 ```
 make run-image
 ```
-- Run remove docker image
+- Remove docker image
 ```
 make clear-image 
 ```
